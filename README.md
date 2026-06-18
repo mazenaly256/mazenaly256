@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Mazen Aly! 👋
 
-<!--
-**mazenaly256/mazenaly256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I am a software engineer specializing in backend and infrastructure, dedicated to architecting cloud-native, scalable and reliable software systems. Driven by a strong problem-solving mindset and a genuine curiosity for continuous learning and improvement. I love tackling complex problems and collaborating with diverse people to create innovative solutions for real-world engineering challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Technical Skills 🧠
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,postgres,mongo,git,github,docker,visualstudio&perline=7" />
+  </a>
+</p>
+
+## Get in Touch 📬
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
+
