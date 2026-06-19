@@ -14,7 +14,7 @@ I am a software engineer specializing in backend and infrastructure, dedicated t
 
 ## Get in Touch 📬
 <p align="center">
-  <a>
+  <a href="https://www.linkedin.com/in/mazenaly256/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
