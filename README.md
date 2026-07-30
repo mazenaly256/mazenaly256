@@ -11,13 +11,3 @@ I am a software engineer specializing in backend and infrastructure, dedicated t
     <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,postgres,mongo,git,github,docker,visualstudio&perline=7" />
   </a>
 </p>
-
-## Get in Touch 📬
-<p align="center">
-  <a href="https://www.linkedin.com/in/mazenaly256/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-
-
